@@ -10,6 +10,12 @@ Awesome Web Resources
 ## Manifest File
 
  - [maskable-icon](https://maskable.app/editor)
+## Buttons Generator
+
+ - [buttons](https://markodenic.com/tools/buttons-generator/)
+## Neumorphism Generator
+
+ - [neumorphism](https://neumorphism.io)
 ## SVG Curves
 
  - [haikei](https://app.haikei.app/)
